@@ -6,5 +6,9 @@ public class Child  {
 		// TODO Auto-generated method stub
 		First f=new First();
 			}
+	// TODO Auto-generated method stub
+	First f=new First();
+		}
+
 
 }
